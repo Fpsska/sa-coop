@@ -49,9 +49,13 @@ Going To San Fierro?». Снимки, которые нужны миссии, м
 чуть позади и сбоку. Движения для него взяты из анимаций самих катсцен. Пропустить катсцену можно только вдвоём: один нажимает Enter, второй
 соглашается тем же Enter или отказывается клавишей Esc.
 
-| | | |
-|---|---|---|
-| ![](docs/images/photo_2026-10-24_12-57-09.jpg) | ![](docs/images/cutscene-yard.jpg) | ![](docs/images/photo_2026-10-24_20-08-58.jpg) |
+<table>
+  <tr>
+    <td width="33%"><img src="docs/images/photo_2026-10-24_12-57-09.jpg"></td>
+    <td width="33%"><img src="docs/images/cutscene-yard.jpg"></td>
+    <td width="33%"><img src="docs/images/photo_2026-10-24_20-08-58.jpg"></td>
+  </tr>
+</table>
 
 ### Общий мир
 
